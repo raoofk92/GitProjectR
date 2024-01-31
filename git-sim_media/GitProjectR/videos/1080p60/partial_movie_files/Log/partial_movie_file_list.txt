@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/laduser/PycharmProjects/GitProjectR/git-sim_media/GitProjectR/videos/1080p60/partial_movie_files/Log/1242473348_3421678860_1493456127.mp4'
